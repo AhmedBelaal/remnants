@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e3b2956d86fda9a4da3a4aa342e21e2f
+guid: 84cb3ab3f09128441918e459fa497ac5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,10 +105,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dead_0
+      name: Attack_Three_0
       rect:
         serializedVersion: 2
-        x: 28
+        x: 37
         y: 0
         width: 36
         height: 100
@@ -119,19 +119,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 223bac814cdf1e2478c3f7bb887b13b7
-      internalID: 379503205
+      spriteID: 1d6aeb8a58ff57e4a9b0f58dd1b3f3b9
+      internalID: 202816679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_1
+      name: Attack_Three_1
       rect:
         serializedVersion: 2
-        x: 158
+        x: 164
         y: 0
-        width: 34
+        width: 37
         height: 100
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -140,19 +140,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 310a6e52fa49fad4c89d244bcdeecaf6
-      internalID: -747910344
+      spriteID: 1a5a3dd827199044abff4701fcdb6733
+      internalID: 861679642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_2
+      name: Attack_Three_2
       rect:
         serializedVersion: 2
-        x: 285
+        x: 296
         y: 0
-        width: 35
+        width: 78
         height: 100
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -161,19 +161,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89388699f34182043962155a2ddee44d
-      internalID: 322598650
+      spriteID: f3dafe6ea9a250f49b847a3b8548b433
+      internalID: 952748900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_3
+      name: Attack_Three_3
       rect:
         serializedVersion: 2
-        x: 415
+        x: 424
         y: 0
-        width: 38
+        width: 82
         height: 100
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -182,50 +182,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad3d7ea56dfd7d345a5d451202271950
-      internalID: 1126139837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dead_4
-      rect:
-        serializedVersion: 2
-        x: 543
-        y: 0
-        width: 54
-        height: 100
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c3c347cff822054e9a8504db8041949
-      internalID: 91842508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dead_5
-      rect:
-        serializedVersion: 2
-        x: 671
-        y: 0
-        width: 62
-        height: 100
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8038b7c07da8fd340aeec931c3fdfc4a
-      internalID: -1448725045
+      spriteID: 04faf4d0b1723964e89759d0c03610ed
+      internalID: -537271087
       vertices: []
       indices: 
       edges: []
@@ -241,12 +199,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dead_1: -747910344
-      Dead_3: 1126139837
-      Dead_0: 379503205
-      Dead_5: -1448725045
-      Dead_4: 91842508
-      Dead_2: 322598650
+      Attack_Three_3: -537271087
+      Attack_Three_1: 861679642
+      Attack_Three_2: 952748900
+      Attack_Three_0: 202816679
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

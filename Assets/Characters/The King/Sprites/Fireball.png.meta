@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e3b2956d86fda9a4da3a4aa342e21e2f
+guid: 944645b84095c11418d589231f6687c6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,52 +105,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dead_0
+      name: Fireball_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 0
-        width: 36
-        height: 100
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 223bac814cdf1e2478c3f7bb887b13b7
-      internalID: 379503205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dead_1
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 0
-        width: 34
-        height: 100
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 310a6e52fa49fad4c89d244bcdeecaf6
-      internalID: -747910344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dead_2
-      rect:
-        serializedVersion: 2
-        x: 285
+        x: 32
         y: 0
         width: 35
         height: 100
@@ -161,17 +119,80 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89388699f34182043962155a2ddee44d
-      internalID: 322598650
+      spriteID: 3dfb3712b7466f146b96a8a97e07cf21
+      internalID: -89293179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_3
+      name: Fireball_1
       rect:
         serializedVersion: 2
-        x: 415
+        x: 160
+        y: 0
+        width: 37
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc893a3eb5980134da3dc31586ca5f46
+      internalID: 853501693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireball_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 42
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b34463c5de461498c34fd0688d05c4
+      internalID: -217075151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireball_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 46
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6529c80ec86963b45aff9baf1ed5d5d2
+      internalID: 1862596002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireball_4
+      rect:
+        serializedVersion: 2
+        x: 538
         y: 0
         width: 38
         height: 100
@@ -182,19 +203,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad3d7ea56dfd7d345a5d451202271950
-      internalID: 1126139837
+      spriteID: 334085f817167be4da477097726e0e4a
+      internalID: -503340800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_4
+      name: Fireball_5
       rect:
         serializedVersion: 2
-        x: 543
+        x: 663
         y: 0
-        width: 54
+        width: 69
         height: 100
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -203,19 +224,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c3c347cff822054e9a8504db8041949
-      internalID: 91842508
+      spriteID: 731b4982f753c3845a72b5516f3ef953
+      internalID: 1314807419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_5
+      name: Fireball_6
       rect:
         serializedVersion: 2
-        x: 671
+        x: 790
         y: 0
-        width: 62
+        width: 71
         height: 100
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -224,8 +245,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8038b7c07da8fd340aeec931c3fdfc4a
-      internalID: -1448725045
+      spriteID: 66b14ce8d289d9842a5f4ba464c6b514
+      internalID: -399246457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireball_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 76
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f44d25a8876c84faca08daa85b606f
+      internalID: 1204113518
       vertices: []
       indices: 
       edges: []
@@ -241,12 +283,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dead_1: -747910344
-      Dead_3: 1126139837
-      Dead_0: 379503205
-      Dead_5: -1448725045
-      Dead_4: 91842508
-      Dead_2: 322598650
+      Fireball_6: -399246457
+      Fireball_3: 1862596002
+      Fireball_2: -217075151
+      Fireball_4: -503340800
+      Fireball_0: -89293179
+      Fireball_5: 1314807419
+      Fireball_7: 1204113518
+      Fireball_1: 853501693
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
