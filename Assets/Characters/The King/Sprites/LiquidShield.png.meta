@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 3e58e8146e6fada479920767af02c99a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LiquidShield_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 31
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096acf626ba7f47469b9a03112e11a7a
+      internalID: -679156487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiquidShield_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 34
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a954e32c0f0b140468b622844da3d82c
+      internalID: 1500931032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiquidShield_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460044afaa607084c8d845b058d95888
+      internalID: 363509415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiquidShield_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f1e319d124dd64a8b3112aebc4bdbe
+      internalID: -1185671885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiquidShield_25
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e7c3e5db539824388a3167327c4e1f
+      internalID: 1830133194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiquidShield_27
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071bf603e46f59f43afb04f963d759ae
+      internalID: -1310879689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiquidShield_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4ec3eb94adf249aaa7b602f927a83
+      internalID: 1436157094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiquidShield_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b322894f0528be74d9d9894e61641dc9
+      internalID: 188784496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiquidShield_33
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 124
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609dbf7821cd8a45bc0a12de9dbbe34
+      internalID: -1063130077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LiquidShield_29: 1436157094
+      LiquidShield_1: -122289240
+      LiquidShield_44: 528001308
+      LiquidShield_35: 1977966404
+      LiquidShield_8: -889611264
+      LiquidShield_52: -2086516150
+      LiquidShield_33: -1063130077
+      LiquidShield_10: 117411578
+      LiquidShield_2: -905542918
+      LiquidShield_6: -908055271
+      LiquidShield_38: 982344971
+      LiquidShield_21: -679156487
+      LiquidShield_13: -713843099
+      LiquidShield_39: 1869758072
+      LiquidShield_0: -187557276
+      LiquidShield_43: -415691931
+      LiquidShield_37: -1169547043
+      LiquidShield_51: -503621068
+      LiquidShield_47: 247100309
+      LiquidShield_17: 624474237
+      LiquidShield_20: -1395353825
+      LiquidShield_50: -1681979879
+      LiquidShield_26: -1508556591
+      LiquidShield_9: 504616657
+      LiquidShield_18: -995436674
+      LiquidShield_48: 1981833061
+      LiquidShield_27: -1310879689
+      LiquidShield_25: 1830133194
+      LiquidShield_32: 188784496
+      LiquidShield_19: -1058271873
+      LiquidShield_3: -78565193
+      LiquidShield_24: -1185671885
+      LiquidShield_15: -1481143870
+      LiquidShield_5: -1950417266
+      LiquidShield_14: 1188623448
+      LiquidShield_49: -1212669134
+      LiquidShield_40: 1429797497
+      LiquidShield_28: 1862682974
+      LiquidShield_42: 1865312470
+      LiquidShield_16: 1648365796
+      LiquidShield_30: 2065355488
+      LiquidShield_31: 2107739067
+      LiquidShield_41: -1394854041
+      LiquidShield_4: 165286127
+      LiquidShield_45: 976677040
+      LiquidShield_34: -823375941
+      LiquidShield_11: -1085011551
+      LiquidShield_36: -1857115907
+      LiquidShield_46: 663918156
+      LiquidShield_12: -1607464947
+      LiquidShield_22: 1500931032
+      LiquidShield_23: 363509415
+      LiquidShield_53: -1418676386
+      LiquidShield_7: -85855777
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
