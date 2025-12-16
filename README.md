@@ -67,4 +67,4 @@ This project was created by Team 22 as part of a System Analysis and Design cour
     git clone [https://github.com/AhmedBelaal/remnants.git]
     ```
 2.  **Open in Unity:** Open the cloned folder using **Unity Hub (Version 2021.x LTS recommended).**
-3.  **Run the Scene:** Open the main level scene and press Play.
+3.  **Run the Scene:** Open the MainMenu scene and press Play.
