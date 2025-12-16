@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9078882976442255651
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9078882976442255653}
+  - component: {fileID: 9078882976442255652}
+  m_Layer: 0
+  m_Name: HUDManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9078882976442255653
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9078882976442255651}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 19.99262, y: 3.5314817, z: -0.099565946}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9078882976442255652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9078882976442255651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 562697bb944ca3a488ad327f278eef2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  heartSlots:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  heartFull: {fileID: 21300000, guid: 8aa92a75d8c7c9f4b84e196bef0d76c2, type: 3}
+  heartEmpty: {fileID: 21300000, guid: 861bd38b0d63be949bce7810f898e9bf, type: 3}
+  fireballIcon: {fileID: 0}
+  fireballReady: {fileID: 21300000, guid: 713787975aac187449a0e115e5dac2c9, type: 3}
+  fireballCooldown: {fileID: 21300000, guid: a83e2512848da6c4685ddeff62b08957, type: 3}
+  shieldIcon: {fileID: 0}
+  shieldReady: {fileID: 21300000, guid: d9cad9abf333455408cb3aab511e08ed, type: 3}
+  shieldCooldown: {fileID: 21300000, guid: cd50fd3dcea7c7148975b7d1ada225ab, type: 3}
+  memoryIcon: {fileID: 0}
+  memoryStages:
+  - {fileID: 21300000, guid: 26635b8d8deee444291d0343d3cd55f9, type: 3}
+  - {fileID: 21300000, guid: 978d26a62269ede42bce9abf907aa7df, type: 3}
+  - {fileID: 21300000, guid: eaf7530a0951add4daee4aa95c65e28e, type: 3}
+  - {fileID: 21300000, guid: 2ec16bf2c6fa3514db0b89e7fdee71a8, type: 3}
+  - {fileID: 21300000, guid: f1b67a100d3dc44488abf3f08a4d91af, type: 3}

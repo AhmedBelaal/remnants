@@ -5,9 +5,9 @@ using UnityEngine;
 public class PlayerStats : MonoBehaviour
 {
     [Header("Stats")]
-    public int health = 3;
-    public int maxHealth = 3;
-    public int lives = 3;
+    public int health = 5;
+    public int maxHealth = 5;
+    public int lives = 10000; // Large number for infinite lives
 
     [Header("Abilities")]
     public bool hasLifeSiphon = false; // CHECK THIS to enable healing
@@ -50,6 +50,11 @@ public class PlayerStats : MonoBehaviour
             shieldAnim = shieldVisual.GetComponent<Animator>();
             shieldVisual.SetActive(false); 
         }
+
+        health = maxHealth;
+        // Make sure the HUD updates immediately on start
+        if(HUDManager.instance != null) 
+            HUDManager.instance.UpdateHealth(health, maxHealth);
     }
 
     void Update()
@@ -94,6 +99,22 @@ public class PlayerStats : MonoBehaviour
                 Debug.Log("Liquid Shield Ready!");
             }
         }
+
+        if (hasLiquidShield)
+        {
+            // It is ready ONLY if it's not active AND not on cooldown
+            bool isReady = !isShieldActive && !isShieldOnCooldown;
+
+            if (HUDManager.instance != null)
+            {
+                HUDManager.instance.SetShieldState(isReady);
+            }
+        }
+        else
+        {
+             // If we don't have the ability, keep it grey
+            if (HUDManager.instance != null) HUDManager.instance.SetShieldState(false);
+        }
     }
 
     public void TakeDamage(int damage)
@@ -107,6 +128,7 @@ public class PlayerStats : MonoBehaviour
         if(!isImmune)
         {
             health -= damage;
+            HUDManager.instance.UpdateHealth(health, maxHealth); 
 
             if (health > 0)
             {
@@ -150,6 +172,7 @@ public class PlayerStats : MonoBehaviour
 
         // HEAL
         health++;
+        HUDManager.instance.UpdateHealth(health, maxHealth); 
         lastSiphonTime = Time.time;
         Debug.Log("Life Siphon! Health Restored.");
         Debug.Log("Current Health: " + health);

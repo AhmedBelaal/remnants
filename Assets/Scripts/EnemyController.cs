@@ -16,14 +16,14 @@ public class EnemyController : MonoBehaviour
     
     public Transform player;
 
-    void Start()
+    protected void Start()
     {
         currentHealth = maxHealth;
         anim = GetComponent<Animator>();
         if (sr == null) sr = GetComponent<SpriteRenderer>();
     }
 
-    void Update()
+    protected void Update()
     {
         if (!canMove) return;
         LookAtPlayer();

@@ -125,6 +125,23 @@ public class PlayerControl : MonoBehaviour
         anim.SetFloat("Speed", Mathf.Abs(rb.velocity.x));
         anim.SetFloat("Height", rb.velocity.y);
         anim.SetBool("Grounded", grounded);
+
+        if (stats != null && stats.hasFireball)
+        {
+            // Calculate if cooldown has finished
+            float timeSinceLastFire = Time.time - lastFireTime;
+            bool isReady = timeSinceLastFire >= fireballCooldown;
+
+            if (HUDManager.instance != null) 
+            {
+                HUDManager.instance.SetFireballState(isReady);
+            }
+        }
+        else
+        {
+            // If we don't have the ability, keep it grey
+            if (HUDManager.instance != null) HUDManager.instance.SetFireballState(false);
+        }
     }
 
     void Jump()

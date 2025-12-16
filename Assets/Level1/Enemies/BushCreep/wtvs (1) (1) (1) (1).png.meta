@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 91121790fcabe5b45a01f530cbe8dee7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 818
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e7562113f041498814ce36004e36e
+      internalID: 746664253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 817
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc44f925365d0d42a6f00b034d01fe2
+      internalID: 1219044407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 818
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf1bf7a7a02044fb22fa88817e309a
+      internalID: 893516302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 818
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9acef7e2ec95a4ba599633ca42c208
+      internalID: -1658265056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 710
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d09e173e973814419005ab5dea3bb54
+      internalID: -309952362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 705
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7265a616924624f8d0af1972a06f19
+      internalID: -1184998785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 688
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fa80a7e83239f46a9dce1ef05323c8
+      internalID: -647010610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 691
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b1b4743f0b8446bd171ccfa963b39
+      internalID: 335398156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 690
+        width: 132
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f057761448f74caa8463e36a22029
+      internalID: 1848978671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 529
+        width: 131
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b5a3daf16ae1f4f816e2bbafd96953
+      internalID: -856636250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 529
+        width: 131
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d32ce469ea9fe4db62ea19b563b063
+      internalID: 1146370141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 547
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c49a5bb41c1004593b074f972e1e18
+      internalID: -444875020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 556
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c7b343b922c9489442ceaf3907f79
+      internalID: 1225303830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 549
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835d60830fbb2247a49bca4f97d5df5
+      internalID: -875631359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 403
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25422bbe42137d844ab92615d21e104c
+      internalID: -1296728377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 404
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f273edcf689f834096ce0429dadaa58
+      internalID: 1814579590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 403
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4785e1beed8174eb76a4f830c1ee2d
+      internalID: 961884787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5edf94ceb927e140aad18cc214552fb
+      internalID: -1916134192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 299
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b522464b45444da88d70f27fd9ebb
+      internalID: -135397137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 298
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cabb59068f6664e86f25b341fdc317
+      internalID: 235676344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 295
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6480926a2378c04faf16808804e9826
+      internalID: 1700950995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 190
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d21faefeb6589f489db516c6b45a8e1
+      internalID: -977425089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 193
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8794f00d239ef84098aaee3971a3b30
+      internalID: -474853776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 132
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ccfde6ced14d448939400648553dc
+      internalID: 1110717564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 132
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df05f18897827f4c808e831f0cd54fd
+      internalID: -2066414271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 133
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfda0c31701b364e8306f26dcd9fc92
+      internalID: -1548642554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wtvs (1) (1) (1) (1)_26
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2
+        width: 131
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3b922581506ad4d848bee9f5d4f6eb
+      internalID: -560566314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wtvs (1) (1) (1) (1)_18: -135397137
+      wtvs (1) (1) (1) (1)_17: -1916134192
+      wtvs (1) (1) (1) (1)_25: -1548642554
+      wtvs (1) (1) (1) (1)_9: -856636250
+      wtvs (1) (1) (1) (1)_21: -977425089
+      wtvs (1) (1) (1) (1)_12: 1225303830
+      wtvs (1) (1) (1) (1)_8: 1848978671
+      wtvs (1) (1) (1) (1)_26: -560566314
+      wtvs (1) (1) (1) (1)_16: 961884787
+      wtvs (1) (1) (1) (1)_7: 335398156
+      wtvs (1) (1) (1) (1)_23: 1110717564
+      wtvs (1) (1) (1) (1)_11: -444875020
+      wtvs (1) (1) (1) (1)_1: 1219044407
+      wtvs (1) (1) (1) (1)_13: -875631359
+      wtvs (1) (1) (1) (1)_22: -474853776
+      wtvs (1) (1) (1) (1)_4: -309952362
+      wtvs (1) (1) (1) (1)_5: -1184998785
+      wtvs (1) (1) (1) (1)_19: 235676344
+      wtvs (1) (1) (1) (1)_6: -647010610
+      wtvs (1) (1) (1) (1)_0: 746664253
+      wtvs (1) (1) (1) (1)_20: 1700950995
+      wtvs (1) (1) (1) (1)_2: 893516302
+      wtvs (1) (1) (1) (1)_3: -1658265056
+      wtvs (1) (1) (1) (1)_24: -2066414271
+      wtvs (1) (1) (1) (1)_15: 1814579590
+      wtvs (1) (1) (1) (1)_14: -1296728377
+      wtvs (1) (1) (1) (1)_10: 1146370141
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
